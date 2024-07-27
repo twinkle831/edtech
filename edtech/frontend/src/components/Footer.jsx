@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="w-full md:max-w-[420px]">
           <h1>WHAT WE DO.</h1>
           <p className="font-medium text-black  mt-6 dark:drop-shadow-[0_0_0.3rem_#2b15ed] dark:invert">
-            Vowels of the People Association aka VOPA provides Joyous,
+            EdTech provides Joyous,
             meaningful education with self-respect and equal opportunity.
             <br></br>
             We engage mainly in three types of interventions as follows.
@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
 
       <p className="text-lg text-secondary-foreground p-6 text-center">
-        Made with care, Team We7 ❤️.
+        Made with care, Team CODEHER ❤️.
       </p>
     </div>
   );
